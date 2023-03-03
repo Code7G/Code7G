@@ -1,6 +1,6 @@
 Hi, I’m Code7G,
 
-I’m interested in coding programs, AI, ANN and game development
+I’m interested in coding programs, AI, ANNs and game development
 
 Have a great day!
 
