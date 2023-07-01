@@ -4,7 +4,7 @@ I have a large interest in powerful and world changing technologies such as AI.
 I have worked on and researched new AI technologies such as AGI and ASI.
 My primary programming language is python although I can adapt to other ways of programming.
 I'm passionate about leveraging AI to solve complex problems and enhance human experiences.
-With a strong foundation in software development, I strive to create innovative solutions that push the boundaries of what's possible.
+With a strong foundation in software development, I strive to create innovative solutions that push the boundaries of what's possible and achieve great things for humanity.
 
 Have a great day!
 
