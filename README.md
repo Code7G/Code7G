@@ -8,6 +8,7 @@ With a strong foundation in software development, I strive to create innovative 
 
 Have a great day!
 
+(All my current repositories are private (as of now) and or under one of my Github organizations)
 <!---
 Code7G/Code7G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
