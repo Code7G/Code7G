@@ -1,15 +1,37 @@
-![](Code7G_Gh_representetion_img.png)
+<!---
+Ash-hadu anllaa ilaaha illallaah wa ash-hadu anna Muhammadan abduhu wa rasooluh
+--->
 
-I have a large interest in powerful and world changing technologies such as AI.
+| ![Code7G](Code7G_Gh_representetion_img.png) |
+|:--:| 
+<p align="center">
+  I am a software, AI and electrical developer/engeneer
+</p>
+<!---
+insha'Allah
+--->
+
+<h2 align="center">About Me</h2>
+<p align="center">
+  I have a large interest in powerful and world changing technologies such as AI.
 I have worked on and researched new AI technologies such as AGI and ASI.
 My primary programming language is python although I can adapt to other ways of programming.
 I'm passionate about leveraging AI to solve complex problems and enhance human experiences.
 With a strong foundation in software development, I strive to create innovative solutions that push the boundaries of what's possible and achieve great things for humanity.
-
-Have a great day!
-
-(All my current repositories are private (as of now) and or under one of my Github organizations)
+</p>
+<h3 align="center">Founder of Envedity</h3>
+<h2 align="center">My Projects</h2>
+<p align="center">
+  <a href="https://github.com/Envedity/DAIA">DAIA</a> - Digital Artificial Intelligence Agent
+</p>
 <!---
-Code7G/Code7G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+insha'Allah, Alhamdulillah, Subhannalah
+--->
+
+<!---
+Allahu Akbar
+--->
+<h4 align="center">Have a great day!</h4>
+<!---
+insha'Allah
 --->
